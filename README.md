@@ -10,4 +10,4 @@ You will need an installation of [Docker](https://docs.docker.com/get-docker/) a
 
 ## Usage
 
-Run `sudo docker-compose up` from the root directory of the repository and navigate copy the server link from the console.
+Run `sudo docker-compose up` from the root directory of the repository and navigate to the server link from the console.
